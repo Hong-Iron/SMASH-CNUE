@@ -1,0 +1,66 @@
+{
+  "code": "CNUE",
+  "title": "SMASH CNUE",
+  "school": "진주교대",
+  "fullName": "진주교육대학교",
+  "campusName": "진주교육대학교",
+  "tagline": "진주교대를 부셔 (시험기간 스트레스 해소)",
+  "description": "진주교육대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 진주교육대학교 3D 화면과 SMASH CNUE 제목",
+  "url": "https://hong-iron.github.io/SMASH-CNUE/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 474972711
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        35.1865214,
+        128.0681656
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 교사교육센터 북쪽 주차장 자리인데, 사진에는 주차선과 차만 있고 건물이 없다."
+    },
+    {
+      "at": [
+        35.1863489,
+        128.0658629
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 체육관 동쪽 벽과 그 옆 도로에 걸친 자리인데, 사진에는 길과 빨간 차 한 대만 있고 건물이 없다."
+    },
+    {
+      "at": [
+        35.1863737,
+        128.0659629
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 체육관 동쪽 굽은 도로 위 자리인데, 사진에는 도로만 있고 건물이 없다."
+    },
+    {
+      "at": [
+        35.1866563,
+        128.0672271
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 제1강의동 남동쪽 모서리 옆 도로와 보도 위 자리인데, 사진에 건물이 없다."
+    },
+    {
+      "at": [
+        35.1845404,
+        128.0670231
+      ],
+      "n": "",
+      "why": "같은 건물 겹침 — 국악실습관(18) 서쪽 끝의 녹색 단을 다시 그린 조각이고, 나머지는 바깥 계단과 바닥이라 따로 세울 건물이 없다."
+    }
+  ]
+}
